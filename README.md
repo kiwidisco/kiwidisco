@@ -5,7 +5,7 @@
 - Here is a cat I hired to stare at you:
 
 <div align = 'center'>  
-![hired cat](imCooked_cat.jpg "Title")
+  <img src ='imCooked_cat.jpg' alt=''/>
 </div>
 
 <!--
