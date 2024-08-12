@@ -1,4 +1,4 @@
-## Welcome! 👋
+## Hi! 👋
 
 - 🔭 I’m currently working on: an ObsidianMd plugin to aid Chinese users, and my personal portfolio website.
 - 📫 How to reach me: djjd_ on Discord
