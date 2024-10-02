@@ -1,4 +1,8 @@
-## Hi! 👋
+## Hey there! 👋
+
+I'm a 2nd year computer science student at Carleton University, with interests in Web Dev and ML.
+
+I'm currently looking for Summer / Fall 2025 internships. 
 
 - 🔭 I’m currently working on: an ObsidianMd plugin to aid Chinese users, and my personal portfolio website.
 - 📫 How to reach me: djjd_ on Discord
