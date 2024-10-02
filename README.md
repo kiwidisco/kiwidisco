@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm a 2nd year computer science student at Carleton University, with interests in Web Dev and ML.
+I'm a 2nd year computer science student at Carleton University, with interests in web development and data science.
 
 I'm currently looking for Summer / Fall 2025 internships. 
 
