@@ -1,8 +1,7 @@
 ## Hey there! 👋
 
-I'm a 2nd year computer science student at Carleton University, with interests in web development and data science.
-
-I'm currently looking for Summer / Fall 2025 internships. 
+~~I'm a 2nd year computer science student at Carleton University, with interests in web development and data science.~~
+I'm a professional clown.
 
 - 🔭 I’m currently working on: an ObsidianMd plugin to aid Chinese users, and my personal portfolio website.
 - 😄 Here is a cat I hired to stare at you:
